@@ -26,9 +26,15 @@ A cross-platform **command-line tool** for **encrypting and decrypting files** u
    ```
 
 3. **Run from Any Terminal**
+
+   To encript a file
    ```sh
-   encryptor encrypt --input myfile.txt --key "MySecretKey"
+   encryptor encrypt --input credentials --key "MySecretKey"
    ```
+   To descryp and file 
+   ```sh
+      encryptor decrypt --input credentials.encrypted --key "MySecretKey"
+      ```
 
 ---
 

@@ -16,7 +16,7 @@ A cross-platform **command-line tool** for **encrypting and decrypting files** u
 
 1. **Download & Save the Script**
    ```sh
-   wget https://github.com/tt-abdulhaq/lock_file/main.py -O encryptor
+   wget https://raw.githubusercontent.com/tt-abdulhaq/lock_file/main/main.py -O encryptor
    chmod +x encryptor
    ```
 

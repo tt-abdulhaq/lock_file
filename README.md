@@ -2,11 +2,6 @@
 
 A cross-platform **command-line tool** for **encrypting and decrypting files** using a password-based key. Works on **Windows and Linux** as a standalone executable.
 
-## 🚀 Features
-- **Simple & Secure** 🔒 - Uses `Fernet` encryption from `cryptography` library.
-- **Cross-Platform** 🌍 - Works on **Windows & Linux**.
-- **Standalone Executable** ⚡ - No need to run with `python`.
-- **Error-Handled & User-Friendly** ✅ - Prevents common issues like missing files, wrong keys, or permission errors.
 
 ---
 
